@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and programing in Python
 - 🌱 I’m currently persuing my B.Tech CSE degree
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 To reach me just mail me at sunnyamaan322@gmail.com
 
 <!---
 Amaan2410/Amaan2410 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
